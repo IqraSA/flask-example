@@ -5,4 +5,4 @@ app = application
 
 @application.route('/')
 def hello_world():
-    return 'Hi! Its Moovbot,How can I help you'
+    return 'Hi Moovbot!Peer to Peer car sharing'
